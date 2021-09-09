@@ -1,0 +1,2 @@
+# MovieApp
+Django Movie Application
